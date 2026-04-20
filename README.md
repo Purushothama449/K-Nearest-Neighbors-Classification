@@ -55,7 +55,7 @@ Decision boundary clearly shows class separation
 ## Output
 
 KNN Decision Boundary (Iris Dataset)  
-![Decision Boundary](K-Nearest-Neighbors-Classification\knn_decision_boundary.jpg)
+![Decision Boundary](K-Nearest-Neighbors-Classification/knn_decision_boundary.jpg)
 
 ---
 
